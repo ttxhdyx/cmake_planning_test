@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-# build
-/bin
+# build 忽视bin里的exe文件和build里的构建文件
+/bin   
 /build
